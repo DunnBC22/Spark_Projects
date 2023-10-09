@@ -19,7 +19,7 @@
 </h4>
 
 | Project Name | Sentence Embedder/ Encoder | Transformer Used | Accuracy | Macro Precision | Macro Recall | Macro F1-Score |
-|  :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Clickbait Classification (Part 1) | `Universal Sentence Encoder` | `Classifier DL Approach` | 0.97 | 0.97 | 0.97 | 0.97 |
 | Clickbait Classification (Part 2) | Regular Built-In Tokenizer | `BERT Sequence Classifier` | 1.0 | 1.0 | 1.0 | 1.0 |
 | Clickbait Classification (Part 3) | `BERT Sequence Classifier` | `Classifier DL Approach` | 0.98 | 0.98 | 0.98 | 0.98 |
